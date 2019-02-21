@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\bin\Debug\Tabla de sah.exe
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\bin\Debug\Tabla de sah.pdb
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\Tabla_de_sah.Form1.resources
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\Tabla_de_sah.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\Tabla de sah.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\Tabla de sah.exe
+D:\MARIA\Programare\Aplicatii\Tabla de sah\Tabla de sah\obj\Debug\Tabla de sah.pdb

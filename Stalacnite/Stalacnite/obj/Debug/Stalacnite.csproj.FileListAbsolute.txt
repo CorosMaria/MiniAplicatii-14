@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\bin\Debug\Stalacnite.exe
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\bin\Debug\Stalacnite.pdb
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\Stalacnite.Form1.resources
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\Stalacnite.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\Stalacnite.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\Stalacnite.exe
+D:\MARIA\Programare\Aplicatii\Stalacnite\Stalacnite\obj\Debug\Stalacnite.pdb

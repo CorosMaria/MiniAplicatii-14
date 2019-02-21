@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.Form1.resources
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\bin\Debug\Termometru.exe
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\bin\Debug\Termometru.pdb
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.exe
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.pdb
+D:\MARIA\Programare\Aplicatii\Termometru\Termometru\obj\Debug\Termometru.csprojResolveAssemblyReference.cache
